@@ -80,3 +80,11 @@ proguard/
 # Temp files for KDE and other Editor's 
 *~
 
+assignments/week-1-assignment-0/src/edu/vuum/mooca/SynchronizedQueue.java
+assignments/week-2-assignment-1/src/edu/vuum/mocca/SimpleAtomicLong.java
+*.java
+assignments/week-1-assignment-0/src/edu/vuum/mooca/SynchronizedQueue.java
+assignments/week-2-assignment-1/src/edu/vuum/mocca/SimpleAtomicLong.java
+assignments/week-3-assignment-2/src/edu/vuum/mocca/SimpleAtomicLong.java
+assignments/week-3-assignment-2/src/edu/vuum/mocca/SimpleSemaphore.java
+assignments/week-3-assignment-2/test/edu/vuum/mocca/PalantirManagerUnitTest.java
